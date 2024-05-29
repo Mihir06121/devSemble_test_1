@@ -16,3 +16,7 @@ console.log("TEST 6")
 console.log("TEST 7")
 console.log("TEST 8")
 console.log("MASTER PUSH")
+console.log("MASTER PUSH1")
+console.log("MASTER PUSH2")
+
+
