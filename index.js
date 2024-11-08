@@ -5,3 +5,6 @@ console.log("TEST 4")
 console.log("TEST 5")
 console.log("TEST 6")
 console.log("GIT PROCESS FROM DEVS CLI SUCCESSS!!!")
+console.log("GIT PROCESS RISTRICTED COMMAND TEST_1")
+console.log("GIT PROCESS RISTRICTED COMMAND TEST_1")
+
